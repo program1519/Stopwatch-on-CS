@@ -1,0 +1,14 @@
+C:\Users\program1519\Desktop\My_code\My C# code\Time\obj\Debug\net8.0\Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\program1519\Desktop\My_code\My C# code\Time\obj\Debug\net8.0\Time.AssemblyInfoInputs.cache
+C:\Users\program1519\Desktop\My_code\My C# code\Time\obj\Debug\net8.0\Time.AssemblyInfo.cs
+C:\Users\program1519\Desktop\My_code\My C# code\Time\obj\Debug\net8.0\Time.csproj.CoreCompileInputs.cache
+C:\Users\program1519\Desktop\My_code\My C# code\Time\bin\Debug\net8.0\Time.exe
+C:\Users\program1519\Desktop\My_code\My C# code\Time\bin\Debug\net8.0\Time.deps.json
+C:\Users\program1519\Desktop\My_code\My C# code\Time\bin\Debug\net8.0\Time.runtimeconfig.json
+C:\Users\program1519\Desktop\My_code\My C# code\Time\bin\Debug\net8.0\Time.dll
+C:\Users\program1519\Desktop\My_code\My C# code\Time\bin\Debug\net8.0\Time.pdb
+C:\Users\program1519\Desktop\My_code\My C# code\Time\obj\Debug\net8.0\Time.dll
+C:\Users\program1519\Desktop\My_code\My C# code\Time\obj\Debug\net8.0\refint\Time.dll
+C:\Users\program1519\Desktop\My_code\My C# code\Time\obj\Debug\net8.0\Time.pdb
+C:\Users\program1519\Desktop\My_code\My C# code\Time\obj\Debug\net8.0\Time.genruntimeconfig.cache
+C:\Users\program1519\Desktop\My_code\My C# code\Time\obj\Debug\net8.0\ref\Time.dll
